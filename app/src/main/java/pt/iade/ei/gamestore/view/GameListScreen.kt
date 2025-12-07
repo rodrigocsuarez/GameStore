@@ -1,6 +1,6 @@
 package pt.iade.ei.gamestore.view
 
-import android.content.res.Configuration // Adicionado para configurar as cores da bateria
+import android.content.res.Configuration
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*

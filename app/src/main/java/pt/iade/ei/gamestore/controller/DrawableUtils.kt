@@ -11,7 +11,7 @@ object DrawableUtils {
     @DrawableRes
     fun getDrawableIdByName(imageName: String): Int {
         return when (imageName.lowercase()) {
-            
+
             "r6c" -> R.drawable.r6c
             "bandit" -> R.drawable.bandit
             "bi" -> R.drawable.bi
